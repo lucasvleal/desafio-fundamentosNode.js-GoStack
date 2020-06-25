@@ -55,15 +55,6 @@ Recebemos um template e o editamos para que atendesse aos requisitos propostos d
 
 ## Tecnologias Usadas
 - JavaScript
-- ReactJS
-- axios
-- axios Mock Adapter
-- Teste automatizados
-
-Concluído no dia: **19/06/2020**
-
-## Tecnologias Usadas
-- JavaScript
 - Node.js
 - Typescript
 - eslint
